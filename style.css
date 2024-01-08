@@ -1,0 +1,94 @@
+/* header releted style */
+.header {
+    background-image: url(images/Banner\ Image.png);
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+}
+
+.year-items {
+    text-align: center;
+    color: #FFF;
+    padding: 177px 233px;
+}
+
+.year-items h3 {
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.year-items h2 {
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+/* main section releted style */
+.bann-ttl {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: -5px;
+}
+
+.bann-ttl2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: -35px;
+}
+
+.bann-ttl3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.bann-pic {
+    width: 802.9px;
+    height: 500px;
+    margin-left: 280px;
+    margin-right: 220px;
+}
+
+main section{
+    margin-bottom: 50px;
+}
+/* party year style */
+.year-bann {
+    background-image: url(images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.year-ttl{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+letter-spacing: 7.04px;
+line-height: 88px;
+padding-right:80px;
+}
+
+.year-p{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+}
+
+.year-pic{
+    width: 319.83px;
+height: 464.662px;
+}
