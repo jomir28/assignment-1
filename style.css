@@ -192,3 +192,44 @@ main section {
     color: white;
     border: none;
 }
+
+/* footer releted style */
+.footer-main{
+    height: 500px;
+    background-color: black;
+}
+
+.footer-con{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mob{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500px;
+padding-right: 90px;
+margin-bottom: -30px;
+}
+
+.site{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+}
+
+.foot-p{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+padding: 10px 90px;
+}
+
+.footer-img{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
