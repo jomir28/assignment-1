@@ -233,3 +233,12 @@ padding: 10px 90px;
     justify-content: center;
     padding-top: 80px;
 }
+
+.footer-last{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+}
+.last-p{
+    color: white;
+}
