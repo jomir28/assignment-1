@@ -11,7 +11,7 @@
 
 .container {
     width: 1150px;
-    margin: 0 auto;
+    margin: 0 auto
 }
 
 .year-items {
@@ -109,17 +109,86 @@ main section {
 .ad-items {
     text-align: center;
     padding-top: 50px;
-    
+
 }
 
-.ad-span{
-    color:red;
+.ad-span {
+    color: red;
 }
 
-.btn-pri{
+.btn-pri {
     border: 0;
     border-bottom: 5px;
     background-color: red;
     font-size: 15px;
     color: white;
+}
+
+/* portfolio releted style */
+.port-ttl-1 {
+    color: red;
+    margin-bottom: -40px;
+}
+
+.port-ttl-2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-bottom: -15px;
+
+}
+
+.image-con {
+    display: flex;
+}
+
+
+/* subscriber in style */
+.sub {
+    height: 500px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+
+
+.sub-tp {
+    padding-left: 110px;
+    padding-right: 120px;
+}
+
+.sub-pic {
+    padding-top: 60px;
+}
+
+.sub-btn {
+    display: flex;
+    justify-content: center;
+    gap: 0;
+}
+
+.btn-item {
+    padding-left: 100px;
+}
+
+.email-s {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background: #FFF;
+    width: 300px;
+    height: 38px;
+    border: none;
+}
+
+.btn-s {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background: red;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    border: none;
 }
